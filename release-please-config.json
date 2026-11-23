@@ -1,0 +1,9 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "rust",
+      "package-name": "sextant-machines",
+      "bump-minor-pre-major": true
+    }
+  }
+}
